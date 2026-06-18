@@ -16,6 +16,8 @@ Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romulosotti&layout=compact&theme=midnight-purple)
 
+![snake gif](https://github.com/romulosotti/romulosotti/blob/output/github-snake-dark.svg)
+
 ## 🎯 Objetivos para 2026
 
 - Aprender o básico de HTML e CSS
